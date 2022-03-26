@@ -1,0 +1,30 @@
+
+.menuproduct{
+
+    background-color: #34495e;
+    display:flex;
+    justify-content: flex-start;
+}
+.menuproduct a{
+text-decoration: none;
+padding: 25px;
+color:white;
+}
+.menuproduct #an1{
+    text-decoration: wavy;
+    color: #1abc9c;
+    text-shadow: cadetblue;
+    
+}
+footer {
+    margin-top: 100px;
+    text-align: center;
+    padding: 10px;
+    background-color: DarkSalmon;
+    color: white;
+  }
+
+#images1{
+    margin-top: 20px;
+    margin-left: 300px;
+}

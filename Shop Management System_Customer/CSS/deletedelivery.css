@@ -1,0 +1,47 @@
+#ldmid{
+    font-family: 'Lucida Sans';
+    font-size: medium;
+    color: #9b59b6;
+
+}
+ #dmid{
+    border-color:#1C74A1;
+    border-style: solid;
+    
+}
+#reset{
+    background-color: #13445D; /* Green */
+    color: white;
+    margin-left: auto;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 10px;
+    align-items: center;
+}
+#delete{
+    background-color: crimson; /* Green */
+    color: white;
+    margin-left: auto;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 10px;
+    align-items: center;
+}
+.deletedelivery{
+    margin-left: 550px;
+    margin-top: 20px;
+    
+}
+
+
+#heading1{
+    font-family: 'Segoe UI';
+    text-decoration: azure;
+    text-shadow: burlywood;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #27ae60;
+}
